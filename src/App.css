@@ -1,0 +1,79 @@
+/*.App {
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.Container {
+  background-color: lightpink;
+  height: 300px;
+  width: 700px;
+  display: flex;
+  border-radius: 25px;
+  margin: 200px;
+  
+  
+}
+
+.img-fluid {
+  height: 600px;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.form-label {
+  width: 100px;
+
+}
+
+.form-control {
+  width: 300px;
+}
+
+.images {
+  height: 500px;
+}
+
+.heading {
+  
+  text-align: center;
+}
+
+.btn {
+  width: 300px;
+}
+
+.mb-3 {
+  width: 300px;
+  white-space: 10px;
+}
+*/
+ body{
+  background-image:  url(https://th.bing.com/th/id/OIP.b4yeWERuFjW2zQdmyiY0FAHaEo?w=313&h=195&c=7&r=0&o=5&dpr=1.4&pid=1.7);
+    background-size: cover;
+}
+form{
+  
+  height: 500px;
+  width: 600px;
+  padding: 20px;
+  border-radius: 25px;
+  background-image: url(https://www.bing.com/th/id/OGC.0c3d5650347482e061ad315d9715ef85?pid=1.7&rurl=http%3a%2f%2f3.bp.blogspot.com%2f-udEYnVXfTtg%2fU1KSTxokrsI%2fAAAAAAABlWA%2fih9Gp8g9_c4%2fs1600%2fwater1.gif&ehk=5e8sWjTkhaFsXbghs4lnplkRXHA5QPO3gEF60mDfRBs%3d);
+}
+.header{
+  text-align: center;
+}
+
+.form-label{
+  color: white;
+}
+.form-check-label{
+   color: white;
+}
